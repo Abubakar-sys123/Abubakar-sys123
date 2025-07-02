@@ -13,11 +13,11 @@
 
 ---
 
-- 🔭 I’m currently working on **AWS, Terraform & CI/CD**
-- 🌱 I’m currently learning **Docker, Kubernetes, and Advanced DevOps practices**
-- 👯 I’m looking to collaborate on **real-world cloud infrastructure projects**
-- 🤝 I’m open to help with **cloud-related problems and automation**
-- 👨‍💻 My projects are available here:
+-  I’m currently working on **AWS, Terraform & CI/CD**
+-  I’m currently learning **Docker, Kubernetes, and Advanced DevOps practices**
+-  I’m looking to collaborate on **real-world cloud infrastructure projects**
+-  I’m open to help with **cloud-related problems and automation**
+-  My projects are available here:
   - [Guestbook App Repo](https://github.com/Abubakar-sys123/Guestbook_repo)
   - [Jenkins EC2 Pipeline](https://github.com/Abubakar-sys123/jenkins-ec2-pipeline)
 - 📄 [View My Resume](https://github.com/Abubakar-sys123/Abubakar_resume)
